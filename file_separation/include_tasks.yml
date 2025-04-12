@@ -1,0 +1,11 @@
+- name: Include Tasks
+  hosts: localhost
+  connection: local
+  gather_facts: false
+  tasks:
+    - name: Include DB
+      include_tasks: tasks/db.yml
+      tags: db
+    - name: Include Web
+      include_tasks: tasks/web.yml
+      tags: web

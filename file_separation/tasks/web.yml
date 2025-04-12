@@ -1,0 +1,8 @@
+- name: Create Web directory
+  ansible.builtin.file:
+    path: /tmp/dir_web
+    state: directory
+- name: Create Web file
+  ansible.builtin.file:
+    path: /tmp/dir_web/web.txt
+    state: touch
