@@ -1,6 +1,6 @@
 # Ansible
 
-* Ansible is an open-source automation tool used for:
+**Ansible is an open-source automation tool used for:**
  * Configuration management (setting up and maintaining systems)
  * Application deployment
  * Task automation
