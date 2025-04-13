@@ -1,10 +1,10 @@
 # Ansible
 
 * Ansible is an open-source automation tool used for:
-* Configuration management (setting up and maintaining systems)
-* Application deployment
-* Task automation
-* IT orchestration (coordinating multiple systems and services)
+ * Configuration management (setting up and maintaining systems)
+ * Application deployment
+ * Task automation
+ * IT orchestration (coordinating multiple systems and services)
 
 ## Key Features:
 * **Agentless:** You don’t need to install any software on the target systems. It uses SSH to communicate.
