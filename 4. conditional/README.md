@@ -2,3 +2,14 @@
 
 ## when with or & and
 
+![image](https://github.com/user-attachments/assets/3fcd718f-49d4-4351-a5b0-03dbfa2e1451)
+
+## Loop
+
+![image](https://github.com/user-attachments/assets/e36fd0d8-df71-41fc-990d-be0fd121dc4e)
+
+![image](https://github.com/user-attachments/assets/93a13ed0-6a62-4813-b53e-08d250a1b139)
+
+
+
+
