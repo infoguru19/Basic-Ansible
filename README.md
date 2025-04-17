@@ -20,6 +20,8 @@
   **To Change single Value**
 
   ![image](https://github.com/user-attachments/assets/22036556-02a2-4f34-bbfb-56095b72fc92)
+  ![image](https://github.com/user-attachments/assets/9f69775c-bd0c-42fb-9dc7-8b9811bf318a)
+
 
 
 
