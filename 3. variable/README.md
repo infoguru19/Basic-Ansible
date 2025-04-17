@@ -33,6 +33,23 @@
 
 ![image](https://github.com/user-attachments/assets/542f3373-e523-43cc-b354-5df3724cfc1f)
 
+# Magic Variable: hostvars
+
+![image](https://github.com/user-attachments/assets/40f9f344-16de-422a-8aab-b80b2613b7b8)
+
+![image](https://github.com/user-attachments/assets/3b5c00c1-d3e0-45d9-b775-81621ec998a5)
+
+# Gather Fact
+
+![image](https://github.com/user-attachments/assets/bb60878c-1593-4e86-a16d-0143391e14bf)
+
+![image](https://github.com/user-attachments/assets/3ede34c5-0669-4ad3-8a6d-55dc4ddf8577)
+
+
+
+
+
+
 
 
 
