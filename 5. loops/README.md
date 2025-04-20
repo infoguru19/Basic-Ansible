@@ -1,4 +1,6 @@
-# Loops
+# loop
+
+**loop** is newly added in Ansible. Before or now we also use **with_items** .
 
 ## List of Array
 
@@ -13,6 +15,11 @@
 ### Another way to define dictionary.
 
 ![image](https://github.com/user-attachments/assets/bebd78a8-0950-4f59-8389-d125b590a4c1)
+
+# with_*
+
+![image](https://github.com/user-attachments/assets/c98e60c4-61a2-4782-9889-b04b6594ae0e)
+
 
 
 
