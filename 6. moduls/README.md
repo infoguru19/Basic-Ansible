@@ -16,9 +16,21 @@
 
 ![image](https://github.com/user-attachments/assets/4ef38897-0961-4329-8d7c-9c544a0cedc7)
 
-free form (command mkdir /folder create=/folder ) it does required key=value like copy module
+**free form ** (command mkdir /folder create=/folder ) it does required key=value like copy module
 
 ![image](https://github.com/user-attachments/assets/01056e12-8cf1-45e9-8e1a-b60300dad603)
+
+![image](https://github.com/user-attachments/assets/22444746-db44-4d64-9325-d6ff0d2e19aa)
+
+![image](https://github.com/user-attachments/assets/004ac1da-cbf6-48cc-8f8d-28888b25ffb7)
+
+![image](https://github.com/user-attachments/assets/8f45fb49-3a7e-409b-9a8d-62bdca4fbda0)
+
+![image](https://github.com/user-attachments/assets/24cddad6-309f-485d-9f49-17cfab565ebf)
+
+
+
+
 
 
 
