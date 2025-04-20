@@ -14,7 +14,13 @@
 
 ## Command Module.
 
-![image](https://github.com/user-attachments/assets/afb0ee2e-04e6-498b-a5c7-613d29a72f8b)
+![image](https://github.com/user-attachments/assets/4ef38897-0961-4329-8d7c-9c544a0cedc7)
+
+free form (command mkdir /folder create=/folder ) it does required key=value like copy module
+
+![image](https://github.com/user-attachments/assets/01056e12-8cf1-45e9-8e1a-b60300dad603)
+
+
 
 
 
