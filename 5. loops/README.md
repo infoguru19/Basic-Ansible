@@ -1,6 +1,8 @@
-# loop
+# loop & with_ites
 
 **loop** is newly added in Ansible. Before or now we also use **with_items** .
+
+# loop
 
 ## List of Array
 
@@ -19,6 +21,13 @@
 # with_*
 
 ![image](https://github.com/user-attachments/assets/c98e60c4-61a2-4782-9889-b04b6594ae0e)
+
+## Advantage of with_items
+
+![image](https://github.com/user-attachments/assets/e00c4432-0dce-4c93-845b-070afb01055b)
+
+![image](https://github.com/user-attachments/assets/11b65a00-b40a-4750-a109-a376414e3a72)
+
 
 
 
